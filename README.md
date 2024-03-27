@@ -1,5 +1,4 @@
 # JANG JUN HYUK 😁
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhmero8659&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkd86591)](https://solved.ac/wkd86591/)
 # 💪Skills
